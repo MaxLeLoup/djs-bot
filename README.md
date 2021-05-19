@@ -9,11 +9,11 @@
 
 ---
 
-<p align="center"> 🤖 Vous cherchez une base de bot pour faire le vôtre ?.
+<p align="center"> 🤖 Vous cherchez une base de bot pour faire le vôtre ?
     <br> 
 </p>
 
-## 📝 Table of Contents
+## 📝 Sommaire
 
 - [Infos](#about)
 - [Comment marche t'il ?](#working)
@@ -28,7 +28,7 @@ Cette base de bot contient tout ce qu'il faut pour faire un bot parfait !
 
 Commencer par télécharger le bot.
 
-Une fois que vous l'avez télécharger et extrais vous n'avez qu'à marquer 
+Une fois que vous l'avez téléchargé et extrais vous n'avez qu'à marquer :
 ```
 npm i
 npm run dev/npm start
@@ -36,7 +36,7 @@ npm run dev/npm start
 
 ## 🎈 Usage <a name = "usage"></a>
 
-Le bot ne contient qu'une commande:
+Le bot ne contient qu'une commande :
 
 ```
 !test
